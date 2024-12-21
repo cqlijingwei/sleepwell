@@ -1,0 +1,13 @@
+agents:
+  product_details:
+    enabled: true
+  product_reviews:
+    enabled: true
+  orders:
+    enabled: true
+
+database:
+  url: "sqlite:///sleep_better.db"
+
+anthropic:
+  api_key: "YOUR_API_KEY_HERE"

@@ -1,0 +1,140 @@
+{
+    "Ultra Comfort Mattress": {
+        "price": 1299,
+        "type": "Hybrid",
+        "height": 12,
+        "layers": [
+            {"name": "Cooling Gel Memory Foam Top Layer", "thickness": 2},
+            {"name": "Responsive Comfort Foam", "thickness": 2},
+            {"name": "Transition Layer", "thickness": 2},
+            {"name": "Pocket Coil System", "thickness": 6, "coils": 1024}
+        ],
+        "features": [
+            "Advanced temperature regulation",
+            "Edge-to-edge support system",
+            "Motion isolation technology",
+            "Breathable quilted cover",
+            "CertiPUR-US certified foams",
+            "Compatible with adjustable bases"
+        ],
+        "best_for": [
+            "Hot sleepers",
+            "Couples",
+            "Back and stomach sleepers",
+            "Those needing extra edge support"
+        ],
+        "sizes": ["Twin", "Twin XL", "Full", "Queen", "King", "California King"],
+        "warranty": 15,
+        "trial_period": 100
+    },
+    "Dream Sleep Mattress": {
+        "price": 899,
+        "type": "All-Foam",
+        "height": 10,
+        "layers": [
+            {"name": "Memory Foam Comfort Layer", "thickness": 2},
+            {"name": "Adaptive Support Foam", "thickness": 2},
+            {"name": "High-Density Base Foam", "thickness": 6}
+        ],
+        "features": [
+            "Pressure-relieving memory foam",
+            "Open-cell foam technology",
+            "Removable and washable cover",
+            "Zero motion transfer",
+            "CertiPUR-US certified foams"
+        ],
+        "best_for": [
+            "Side sleepers",
+            "Light to average weight sleepers",
+            "Those seeking motion isolation",
+            "Budget-conscious shoppers"
+        ],
+        "sizes": ["Twin", "Full", "Queen", "King"],
+        "warranty": 10,
+        "trial_period": 100
+    },
+    "Luxury Cloud Mattress": {
+        "price": 1899,
+        "type": "Hybrid",
+        "height": 14,
+        "layers": [
+            {"name": "Natural Latex Top Layer", "thickness": 2},
+            {"name": "Gel-Infused Memory Foam", "thickness": 2},
+            {"name": "Dynamic Response Foam", "thickness": 2},
+            {"name": "Zoned Support Coil System", "thickness": 8, "coils": 1744}
+        ],
+        "features": [
+            "Organic cotton and wool cover",
+            "Natural latex for durability",
+            "Zoned lumbar support",
+            "Enhanced edge support system",
+            "Temperature neutral design",
+            "Antimicrobial properties",
+            "GOTS and GOLS certified materials"
+        ],
+        "best_for": [
+            "Luxury seekers",
+            "Those with back pain",
+            "Combination sleepers",
+            "Eco-conscious consumers"
+        ],
+        "sizes": ["Twin XL", "Full", "Queen", "King", "California King", "Split King"],
+        "warranty": 25,
+        "trial_period": 180
+    },
+    "Essential Plus Mattress": {
+        "price": 699,
+        "type": "All-Foam",
+        "height": 8,
+        "layers": [
+            {"name": "Comfort Foam", "thickness": 1.5},
+            {"name": "Pressure Relief Foam", "thickness": 2},
+            {"name": "Support Core Foam", "thickness": 4.5}
+        ],
+        "features": [
+            "Budget-friendly option",
+            "Medium-firm support",
+            "Basic cooling properties",
+            "Lightweight and easy to move",
+            "CertiPUR-US certified foams"
+        ],
+        "best_for": [
+            "Guest rooms",
+            "Children's rooms",
+            "Temporary living situations",
+            "Budget shoppers"
+        ],
+        "sizes": ["Twin", "Full", "Queen"],
+        "warranty": 5,
+        "trial_period": 60
+    },
+    "Performance Sport Mattress": {
+        "price": 1499,
+        "type": "Hybrid",
+        "height": 13,
+        "layers": [
+            {"name": "Recovery Foam with Copper Infusion", "thickness": 2},
+            {"name": "High-Density Support Foam", "thickness": 2},
+            {"name": "Dynamic Response Layer", "thickness": 2},
+            {"name": "Reinforced Coil System", "thickness": 7, "coils": 1356}
+        ],
+        "features": [
+            "Copper-infused foam for recovery",
+            "Enhanced pressure point relief",
+            "Specialized for athletic recovery",
+            "Advanced cooling technology",
+            "Antimicrobial properties",
+            "Extra durability",
+            "Reinforced edge support"
+        ],
+        "best_for": [
+            "Athletes and active individuals",
+            "Those with active recovery needs",
+            "Heavy sleepers",
+            "Hot sleepers"
+        ],
+        "sizes": ["Twin XL", "Full", "Queen", "King", "California King"],
+        "warranty": 20,
+        "trial_period": 120
+    }
+}
